@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="088599bb-44cf-4847-a5eb-c4fa8f91f592" name="Default" comment="" />
+=======
+    <list default="true" id="088599bb-44cf-4847-a5eb-c4fa8f91f592" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Screenuri/Thumbs.db" afterPath="$PROJECT_DIR$/Screenuri/Thumbs.db" />
+    </list>
+>>>>>>> dev
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -174,12 +180,20 @@
       <workItem from="1488119086147" duration="666000" />
       <workItem from="1488183933519" duration="818000" />
       <workItem from="1488263938073" duration="630000" />
+<<<<<<< HEAD
       <workItem from="1488268397804" duration="927000" />
+=======
+      <workItem from="1488268397804" duration="810000" />
+>>>>>>> dev
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3041000" />
+=======
+    <option name="totallyTimeSpent" value="2924000" />
+>>>>>>> dev
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
